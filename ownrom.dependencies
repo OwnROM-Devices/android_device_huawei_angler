@@ -2,7 +2,7 @@
 	{
 	   "repository": "OwnKernel-Angler",
 	   "target_path": "kernel/huawei/angler",
-	   "remote": "device"   
+	   "remote": "devices"   
 	},
 	{
            "repository": "proprietary_vendor_huawei",
