@@ -8,7 +8,7 @@
            "repository": "proprietary_vendor_huawei",
 	   "target_path": "vendor/huawei",
 	   "remote": "tm",
-	   "branch": "cm-13.0"
+	   "revision": "cm-13.0"
 	}
    
 ]
