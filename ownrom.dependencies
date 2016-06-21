@@ -1,8 +1,9 @@
 [
 	{
-	   "repository": "OwnKernel-Angler",
+	   "repository": "DespairFactor/angler",
 	   "target_path": "kernel/huawei/angler",
-	   "remote": "devices"   
+           "remote": "github",
+           "revision": "maul" 
 	},
 	{
            "repository": "proprietary_vendor_huawei",
@@ -10,5 +11,4 @@
 	   "remote": "tm",
 	   "revision": "cm-13.0"
 	}
-   
 ]
