@@ -1,0 +1,16 @@
+[
+ 	{
+ 	   "repository": "LineageOS/android_kernel_huawei_angler",
+ 	   "target_path": "kernel/huawei/angler",
+ 	   "remote": "github",
+ 	   "revision": "cm-14.1"
+    
+ 	},
+ 	{
+ 		 "repository": "TheMuppets/proprietary_vendor_huawei",
+ 		 "target_path": "vendor/huawei",
+ 		 "remote": "github",
+ 		 "revision": "cm-14.1"
+ 	}
+    
+ ]
